@@ -1,0 +1,19 @@
+{
+  "name": "weathervane",
+  "version": "1.0.0",
+  "description": "sends compass bearing from microbit to tcp socket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steely-glint/weathervane.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steely-glint/weathervane/issues"
+  },
+  "homepage": "https://github.com/steely-glint/weathervane#readme"
+}
